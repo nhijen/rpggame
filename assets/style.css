@@ -1,0 +1,177 @@
+.main {
+    background-image: url(../images/astronomy-constellation-dark-998641.jpg);
+    background-position: center;
+    background-size: cover;
+    width: auto;
+    padding: 60px 0px 80px 0px;
+}
+
+
+.row {
+    padding: 30px;
+}
+
+#char1 {
+    height: 8rem;
+    position: center;
+    padding: 5px;
+
+
+}
+
+#char2 {
+    height: 8rem;
+    position: center;
+    padding: 5px;
+
+
+}
+#char3 {
+    height: 8rem;
+    position: center;
+    padding: 5px;
+
+
+}
+#char4 {
+    height: 8rem;
+    position: center;
+    padding: 5px;
+
+
+}
+#char5 {
+    height: 8rem;
+    position: center;
+    padding: 5px;
+
+
+}
+#char6 {
+    height: 8rem;
+    position: center;
+    padding: 5px;
+
+
+}
+
+h1 {
+    color: d1a015;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0px 0px 10px 0px;
+    font-size: 40px;
+    letter-spacing: 3px;
+    margin: 0px 0px 40px 0px;
+   
+
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    color: #c2c2ff;
+    margin: 0px 0px 0px 50px;
+    letter-spacing: 1px;
+    
+
+
+}
+
+h5 {
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    color: #d1a015;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 10px auto 3px auto;
+
+
+}
+
+h6 {
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    color: #d1a015;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 10px auto 3px auto;
+
+
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0px
+
+
+}
+
+.rowone {
+    border-right: 1px solid #8585ff;
+    height: auto;
+}
+
+button {
+    background: none;
+    border: none;
+    size: contain;
+}
+
+
+.bottombutton {
+    margin: auto;
+    
+}
+#reset {
+	background-color: #c2c2ff;
+	margin: auto;
+	padding: 15px 30px 15px 30px;
+	color: black;
+	
+}
+
+#attackButton {
+	background-color: #8585ff;
+	margin: auto;
+	padding: 15px 30px 15px 30px;
+	color: white;
+	
+}
+
+
+
+.charHealth {
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0px
+
+    
+}
+
+.villianHealth {
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0px
+
+    
+}
+.result {
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    color: #d1a015;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0px auto 0px auto;
+
+    }
